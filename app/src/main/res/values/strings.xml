@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ButterKnife</string>
+    <string name="strWeb">foograde.com</string>
+    <string name="strPhone">Llamar</string>
+    <string name="strSms">Mandar SMS</string>
+    <string name="strMail">Mandar e-mail</string>
+    <string name="strPhoto">Tomar foto</string>
+    <string name="strOther">Lanzar otro activity</string>
+    <string name="aboutName">Adán Muguiro</string>
+    <string name="aboutMail">adan.muguiro@foograde.com</string>
+    <string name="aboutPhone">461 1717 302</string>
+</resources>
